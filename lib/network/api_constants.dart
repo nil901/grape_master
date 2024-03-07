@@ -1,0 +1,40 @@
+class ApiRoutes {
+  static String baseURL = "http://newgrapemastersnskapi.cropmaster.in/api/";
+  static String getotp = '${baseURL}OTP_Mobile';
+  static String useregistration = '${baseURL}UserRegistration';
+  static String getdata = '${baseURL}Get_Data';
+  static String blog = '${baseURL}Blog';
+  static String shop = '${baseURL}Shop';
+  static String shoproduct = '${baseURL}ShopProduct';
+  static String productenquiry = '${baseURL}ProductEnquiry/1';
+  static String plot = '${baseURL}PlotMaster/1';
+  static String addplot = '${baseURL}PlotMaster';
+  static String farmarpost = '${baseURL}FarmerPost';
+  static String comment = '${baseURL}PostCommentLike/1';
+  static String postcomment = '${baseURL}PostCommentLike';
+  static String addpostfarmer = '${baseURL}FarmerPost/1';
+  static String videobannar = '${baseURL}VideoAudio';
+  static String askqution = '${baseURL}FarmerQuestion';
+  static String farmerquetion = '${baseURL}FarmerQuestion/1';
+  static String reportlist = '${baseURL}ReportMaster/1';
+  static String faq = '${baseURL}FaqDisease';
+  static String dairy = '${baseURL}PlotDairy';
+  static String postdiary = '${baseURL}PlotDairy/1';
+  static String faqdisease = '${baseURL}FaqDisease';
+  static String plotshcdule = '${baseURL}PlotSchedule';
+  static String schedule = '${baseURL}PlotSchedule';
+  static String reportmater = '${baseURL}ReportMaster';
+  static String observation = '${baseURL}ObservationQuestion';
+  static String observationcart = '${baseURL} ObservationCart/1';
+  static String pakagelist = '${baseURL}PlotPackage';
+  static String shopregister = '${baseURL}Shop/1';
+  static String shoplist = '${baseURL}Shop';
+  static String productenquery = '${baseURL}ProductEnquiry';
+  static String quizelist = '${baseURL}FarmerOpeniun';
+  static String updateShop = '${baseURL}UpdateShop';
+  static String notification = '${baseURL}Notification';
+  static String product = '${baseURL}ShopProduct';
+  static String productadd = '${baseURL}ShopProduct/1';  
+    static String likepost = '${baseURL}PostCommentLike'; 
+ 
+}

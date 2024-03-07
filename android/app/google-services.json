@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287418233583",
+    "project_id": "grapemaster",
+    "storage_bucket": "grapemaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287418233583:android:cf8ccb3cca3fb4d538a11a",
+        "android_client_info": {
+          "package_name": "com.wowinfotech0.grapesmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287418233583-ln2rqtpsul7lf42qvir257qfg9qkm8ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO0I0TPLnUoQnX06joMa4l64r1dZXxDU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287418233583-ln2rqtpsul7lf42qvir257qfg9qkm8ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
